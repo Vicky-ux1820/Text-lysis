@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Text-lysis/static/css/main.31d6cfe0.css",
+    "main.js": "/Text-lysis/static/js/main.bca3bd8a.js",
+    "static/js/787.f3d7924f.chunk.js": "/Text-lysis/static/js/787.f3d7924f.chunk.js",
+    "index.html": "/Text-lysis/index.html",
+    "main.bca3bd8a.js.map": "/Text-lysis/static/js/main.bca3bd8a.js.map",
+    "787.f3d7924f.chunk.js.map": "/Text-lysis/static/js/787.f3d7924f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.bca3bd8a.js"
+  ]
+}
